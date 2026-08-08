@@ -160,6 +160,8 @@ nav:
           - 人性与共情: 'blog/202001/humanity-and-empathy.md'
       - 202002:
           - 生活的真相 - 自由: 'blog/202002/the-truth-of-life-liberty.md'
+      - 202006:
+          - 许久无乱世，和平近咫尺，英雄去哪了？: 'blog/202006/hero.md'
       - 笔记《项目管理实战》:
           - 概述: 'blog/project-management/index.md'
           - 开篇词 | 为什么说项目管理是每个人的底层能力？: 'blog/project-management/introduction.md'
@@ -243,6 +245,7 @@ nav:
               - PHP 设计模式阅读清单: 'php/php-design-patterns/design-pattern-reading.md'
   - Elasticsearch:
       - Elasticsearch 简易教程:
+          - 目录: 'elasticsearch/simple/index.md'
           - Elasticsearch 入门: 'elasticsearch/simple/introduction.md'
           - Elasticsearch 入门(二): 'elasticsearch/simple/introduction2.md'
           - PHP DSL 查修构造器扩展: 'elasticsearch/simple/builder.md'
